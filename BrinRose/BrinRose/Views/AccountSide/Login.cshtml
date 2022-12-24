@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    if (ViewBag.loginViewModel.Externallogin.Count == 0)
+    {
+        <p>No External Login Provide</p>
+    }
+    else
+    {
+        <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@ViewBag.loginViewModel.ReturnUrl">
+
+            @foreach (var item in ViewBag.loginViewModel.Externallogin)
+            {
+                <button type="submit" name="provider" title="Login using your @item.Name account" value="@item.Name" class="btn  full-width" style="background-color:#15599f;color:white;margin-top:10px ">
+                    <p style="font-weight:bold;font-size:22px">Login in Discord</p>
+                </button>
+            }
+        </form>
+    }
+}
+

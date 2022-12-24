@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BrinRose
+build_property.RootNamespace = BrinRose
+build_property.ProjectDir = C:\Users\Mir Moheen\Source\Repos\MicrosoftIdentity\BrinRose\BrinRose\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Mir Moheen\Source\Repos\MicrosoftIdentity\BrinRose\BrinRose
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Identity/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/AccountSide/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFNpZGVcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/AccountSide/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFNpZGVcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/AdminSide/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaWRlXEFkZFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/AdminSide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaWRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Home/Accessdenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NkZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Moderatorside/AllRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJhdG9yc2lkZVxBbGxSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Moderatorside/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZXJhdG9yc2lkZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mir Moheen/Source/Repos/MicrosoftIdentity/BrinRose/BrinRose/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vwqzhsfdt1
